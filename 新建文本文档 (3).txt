@@ -1,0 +1,22 @@
+Clean Web Server src directory...
++------------------------------------------------------------------------+
+|          LNMP V1.6 for CentOS Linux Server, Written by Licess          |
++------------------------------------------------------------------------+
+|           For more information please visit https://lnmp.org           |
++------------------------------------------------------------------------+
+|    lnmp status manage: lnmp {start|stop|reload|restart|kill|status}    |
++------------------------------------------------------------------------+
+|  phpMyAdmin: http://IP/phpmyadmin/                                     |
+|  phpinfo: http://IP/phpinfo.php                                        |
+|  Prober:  http://IP/p.php                                              |
++------------------------------------------------------------------------+
+|  Add VirtualHost: lnmp vhost add                                       |
++------------------------------------------------------------------------+
+|  Default directory: /home/wwwroot/default                              |
++------------------------------------------------------------------------+
+|  MySQL/MariaDB root password: lnmp.org#14829                          |
++------------------------------------------------------------------------+
++-------------------------------------------+
+|    Manager for LNMP, Written by Licess    |
++-------------------------------------------+
+|              https://lnmp.org           
